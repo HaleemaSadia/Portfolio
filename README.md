@@ -9,4 +9,5 @@ It's a client based project and I was the core developer of this project. It is 
   - User authentication plus subscription and separating functionality for non-logged in users.
   - Live video play and managing video and audio controls.
   - Complete ecommerce flow for the ecommerce module.
-  - Stripe payment method.
+  - Cart management for ecommerce module.
+  - Stripe payment method for checkout.
