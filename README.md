@@ -35,7 +35,7 @@ It's a client based project and I was the core developer of this project. It is 
 - #### _What I've Learnt_
   - Complete mobile application lifecycle.
   - User authentication plus subscription and separating functionality for non-logged in users.
-  - Live video play and managing video and audio controls.
+  - Live video play and managing video and audio controls using node-media-client.
   - Complete ecommerce flow for the ecommerce module.
   - MapView using react-native-maps for showing location markers of nearby events.
   - Cart management for ecommerce module.
@@ -100,7 +100,7 @@ It's a client based project and I was the core developer of this project. It is 
 
 - #### _What I've Learnt_
   - Multiseletion of images from gallery.
-  - Live video streaming from drawing.
+  - Live video streaming from drawing using node-media-client.
   - Realtime Messaging using Firebase Notifications.
   
   
@@ -108,7 +108,7 @@ It's a client based project and I was the core developer of this project. It is 
 It's a client based project and I was the core developer of this project. It is an app for Media channel providing live streaming and recorded shows.
 
 - #### _What I've Learnt_
-  - Live video streaming and video controls.
+  - Live video streaming and video controls using node-media-client.
   - Audio and video controls according to design needs.
   - Animations using Animated library from React Native.
   - MapView using react-native-maps for showing location markers of nearby events.
