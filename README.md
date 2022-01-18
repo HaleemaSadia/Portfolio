@@ -28,6 +28,7 @@ It's a client based project and I was the core developer of this project. It is 
   - Realtime Messaging using Firebase Notifications.
   - Animations using Animated library from React Native.
 
+![EMILY](https://user-images.githubusercontent.com/21139144/150022449-f2a36b7c-5d06-47c2-b07f-5189e5eb040c.png)
 
 ## Carribean Power Jam
 It's a client based project and I was the core developer of this project. It is an app to digitalize Radio channels/media. Moreover it also includes a module for ecommerce. It also includes chat functionality.
@@ -41,6 +42,8 @@ It's a client based project and I was the core developer of this project. It is 
   - Cart management for ecommerce module.
   - Stripe payment method for checkout.
   - Data Persistance using Asyncstorage.
+
+![CARIBBEAN POWER](https://user-images.githubusercontent.com/21139144/150022481-d56bed49-c8b2-4d74-9cca-641aa495f874.png)
 
 ## BuzzBuddy 
 It's a client based project and I was the core developer of this project. It is a community builder app with posting, news feed, socail authentiation, realtime push notifications an chat functionality.
@@ -95,6 +98,8 @@ It's a client based project and I was the core developer of this project. It is 
   - Creation of post with multiple image selection.
   - Realtime Messaging using Firebase Notifications.
 
+![undiscovered](https://user-images.githubusercontent.com/21139144/150022531-1e32b39a-c458-4e6c-905e-e1b7810e0392.png)
+
 ## Rafflego
 It's a client based project and I was the core developer of this project. It is an app for digital lucky draw. It includes live videos and live timeouts for lucky draw.
 
@@ -103,7 +108,8 @@ It's a client based project and I was the core developer of this project. It is 
   - Live video streaming from drawing using node-media-client.
   - Realtime Messaging using Firebase Notifications.
   
-  
+  ![rafflego](https://user-images.githubusercontent.com/21139144/150022559-634ede68-e990-4a19-9479-87bf6861b761.png)
+
 ## HolyGod
 It's a client based project and I was the core developer of this project. It is an app for Media channel providing live streaming and recorded shows.
 
@@ -112,6 +118,8 @@ It's a client based project and I was the core developer of this project. It is 
   - Audio and video controls according to design needs.
   - Animations using Animated library from React Native.
   - MapView using react-native-maps for showing location markers of nearby events.
+
+![HOLYGOD](https://user-images.githubusercontent.com/21139144/150022608-19e39880-4100-48fc-b71e-79cbc14d80fb.png)
 
 ## Clean City
 It's a client based project and I was the core developer of this project. It's a digital platform for service providers and consumers.
