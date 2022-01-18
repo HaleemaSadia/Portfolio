@@ -9,6 +9,7 @@ It's a client based project and I was the core developer of this project. It is 
   - User authentication plus subscription and separating functionality for non-logged in users.
   - Live video play and managing video and audio controls.
   - Complete ecommerce flow for the ecommerce module.
+  - MapView using react-native-maps for showing location markers of nearby events.
   - Cart management for ecommerce module.
   - Stripe payment method for checkout.
   - Data Persistance using Asyncstorage.
@@ -22,6 +23,7 @@ It's a client based project and I was the core developer of this project. It is 
   - Realtime Messaging using Firebase Notifications.
   - Stripe payment method for checkout.
   - Data Persistance using Asyncstorage.
+  - MapView using react-native-maps for showing location markers of nearby service providers.
   - Geofencing to look for nearby service providers using react-native-simple-native-geofencing.
 
 ![HARAKATU 2ND](https://user-images.githubusercontent.com/21139144/149827705-e549a1a0-b165-4627-8574-daecf72f7444.jpg)
@@ -51,6 +53,10 @@ It's a client based project and I was the core developer of this project. It is 
   - Chat functionality using socket.io.
   - Realtime Messaging using Firebase Notifications.
   - Data Persistance using Asyncstorage.
+  - Animations using Animated library from React Native.
+
+![buzz buddy](https://user-images.githubusercontent.com/21139144/150003403-b0a668eb-03cb-4cb7-9666-91748759f852.png)
+
 
 ## National Shooting Academy
 It's a client based project and I was the core developer of this project. It is an online course and certication kind of application with two different role based app i.e trainer and user. It also includes an ecommerce module.
@@ -62,43 +68,50 @@ It's a client based project and I was the core developer of this project. It is 
   - Realtime Messaging using Firebase Notifications.
   - Data Persistance using Asyncstorage.
 
+![national shooting](https://user-images.githubusercontent.com/21139144/150003534-c2859bcc-1568-4a26-bf6f-540bc0265edd.png)
+
+
 ## Juco Assistance 
 It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
 
 - #### _What I've Learnt_
   - User Data Persistance using Asyncstorage.
   - Chat functionality using socket.io.
+  - Creation of post with multiple image selection.
   - Realtime Messaging using Firebase Notifications.
 
 ## Rafflego
-It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
+It's a client based project and I was the core developer of this project. It is an app for digital lucky draw. It includes live videos and live timeouts for lucky draw.
 
 - #### _What I've Learnt_
-  - User Data Persistance using Asyncstorage.
-  - Chat functionality using socket.io.
+  - Multiseletion of images from gallery.
+  - Live video streaming from drawing.
   - Realtime Messaging using Firebase Notifications.
 
 ## Clean City
-It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
+It's a client based project and I was the core developer of this project. It's a digital platform for service providers and consumers.
 
 - #### _What I've Learnt_
-  - User Data Persistance using Asyncstorage.
-  - Chat functionality using socket.io.
+  - Wheelpicker for availability slots.
+  - Custom calendar for timely bookings.
+  - Animations using Animated library from React Native.
   - Realtime Messaging using Firebase Notifications.
 
-## Rustik Stylist
-It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
+## HolyGod
+It's a client based project and I was the core developer of this project. It is an app for Media channel providing live streaming and recorded shows.
 
 - #### _What I've Learnt_
-  - User Data Persistance using Asyncstorage.
-  - Chat functionality using socket.io.
-  - Realtime Messaging using Firebase Notifications.
+  - Live video streaming and video controls.
+  - Audio and video controls according to design needs.
+  - Animations using Animated library from React Native.
+  - MapView using react-native-maps for showing location markers of nearby events.
 
 ## Emily
-It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
+It's a client based project and I was the core developer of this project. It is a community builder app including post creation, newsfeed, connections, chat, push notifications and Audio/Video calls.
 
 - #### _What I've Learnt_
-  - User Data Persistance using Asyncstorage.
+  - Audio/Video calls using Voximplant and RNcallkeep.
   - Chat functionality using socket.io.
   - Realtime Messaging using Firebase Notifications.
+  - Animations using Animated library from React Native.
   
