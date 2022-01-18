@@ -73,13 +73,13 @@ It's a client based project and I was the core developer of this project. It is 
 It's a client based project and I was the core developer of this project. It is a project for coupon base digital marketing with two different role based apps i.e StoreOwner and User. 
 
 - #### _What I've Learnt_
+  - Animated Splash screen, built native module on native iOS and android also published it on npm.
   - Custom Animated drawer.
   - Data Manipulation on graph.
   - Authentication and profile management.
   - Realtime Messaging using Firebase Notifications.
   - Data Persistance using Asyncstorage.
   - Customized calendar view.
-  - Animated Splash screen, built native module on native iOS and android also published it on npm.
 
 ![click marketing app store](https://user-images.githubusercontent.com/21139144/150004872-99ee1933-f2f1-491c-bb77-30dddf6b7d21.png)
 
