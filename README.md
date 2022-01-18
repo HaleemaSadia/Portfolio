@@ -1,19 +1,6 @@
 # Portfolio
 This is my portfolio for my Mobile App Development experience.
 
-## Carribean Power Jam
-It's a client based project and I was the core developer of this project. It is an app to digitalize Radio channels/media. Moreover it also includes a module for ecommerce. It also includes chat functionality.
-
-- #### _What I've Learnt_
-  - Complete mobile application lifecycle.
-  - User authentication plus subscription and separating functionality for non-logged in users.
-  - Live video play and managing video and audio controls.
-  - Complete ecommerce flow for the ecommerce module.
-  - MapView using react-native-maps for showing location markers of nearby events.
-  - Cart management for ecommerce module.
-  - Stripe payment method for checkout.
-  - Data Persistance using Asyncstorage.
-
 ## Harakatu 
 It's a client based project and I was the core developer of this project. It is a service provider app with two different role based apps i.e User and Vendor. It includes booking of services, geofencing for looking for nearby service providers and chat functionality.
 
@@ -31,17 +18,29 @@ It's a client based project and I was the core developer of this project. It is 
 
 ![HARAKATU](https://user-images.githubusercontent.com/21139144/149825245-3446e328-081a-475e-9aca-1d07d1ef78da.jpg)
 
-## Click Marketing 
-It's a client based project and I was the core developer of this project. It is a project for coupon base digital marketing with two different role based apps i.e StoreOwner and User. 
+
+## Emily
+It's a client based project and I was the core developer of this project. It is a community builder app including post creation, newsfeed, connections, chat, push notifications and Audio/Video calls.
 
 - #### _What I've Learnt_
-  - Custom Animated drawer.
-  - Data Manipulation on graph.
-  - Authentication and profile management.
+  - Audio/Video calls using Voximplant and RNcallkeep.
+  - Chat functionality using socket.io.
   - Realtime Messaging using Firebase Notifications.
+  - Animations using Animated library from React Native.
+
+
+## Carribean Power Jam
+It's a client based project and I was the core developer of this project. It is an app to digitalize Radio channels/media. Moreover it also includes a module for ecommerce. It also includes chat functionality.
+
+- #### _What I've Learnt_
+  - Complete mobile application lifecycle.
+  - User authentication plus subscription and separating functionality for non-logged in users.
+  - Live video play and managing video and audio controls.
+  - Complete ecommerce flow for the ecommerce module.
+  - MapView using react-native-maps for showing location markers of nearby events.
+  - Cart management for ecommerce module.
+  - Stripe payment method for checkout.
   - Data Persistance using Asyncstorage.
-  - Customized calendar view.
-  - Animated Splash screen, built native module on native iOS and android also published it on npm.
 
 ## BuzzBuddy 
 It's a client based project and I was the core developer of this project. It is a community builder app with posting, news feed, socail authentiation, realtime push notifications an chat functionality.
@@ -70,6 +69,22 @@ It's a client based project and I was the core developer of this project. It is 
 
 ![national shooting](https://user-images.githubusercontent.com/21139144/150003534-c2859bcc-1568-4a26-bf6f-540bc0265edd.png)
 
+## Click Marketing 
+It's a client based project and I was the core developer of this project. It is a project for coupon base digital marketing with two different role based apps i.e StoreOwner and User. 
+
+- #### _What I've Learnt_
+  - Custom Animated drawer.
+  - Data Manipulation on graph.
+  - Authentication and profile management.
+  - Realtime Messaging using Firebase Notifications.
+  - Data Persistance using Asyncstorage.
+  - Customized calendar view.
+  - Animated Splash screen, built native module on native iOS and android also published it on npm.
+
+![click marketing app store](https://user-images.githubusercontent.com/21139144/150004872-99ee1933-f2f1-491c-bb77-30dddf6b7d21.png)
+
+![click marketing app](https://user-images.githubusercontent.com/21139144/150004911-727c2719-2fc3-4aa1-9ec2-8eb22c9c7e52.png)
+
 
 ## Juco Assistance 
 It's a client based project and I was the core developer of this project. It is an app for digital academy and online training through videos and workouts. I also includes a community builder module with chat functionality.
@@ -87,6 +102,16 @@ It's a client based project and I was the core developer of this project. It is 
   - Multiseletion of images from gallery.
   - Live video streaming from drawing.
   - Realtime Messaging using Firebase Notifications.
+  
+  
+## HolyGod
+It's a client based project and I was the core developer of this project. It is an app for Media channel providing live streaming and recorded shows.
+
+- #### _What I've Learnt_
+  - Live video streaming and video controls.
+  - Audio and video controls according to design needs.
+  - Animations using Animated library from React Native.
+  - MapView using react-native-maps for showing location markers of nearby events.
 
 ## Clean City
 It's a client based project and I was the core developer of this project. It's a digital platform for service providers and consumers.
@@ -97,21 +122,5 @@ It's a client based project and I was the core developer of this project. It's a
   - Animations using Animated library from React Native.
   - Realtime Messaging using Firebase Notifications.
 
-## HolyGod
-It's a client based project and I was the core developer of this project. It is an app for Media channel providing live streaming and recorded shows.
 
-- #### _What I've Learnt_
-  - Live video streaming and video controls.
-  - Audio and video controls according to design needs.
-  - Animations using Animated library from React Native.
-  - MapView using react-native-maps for showing location markers of nearby events.
-
-## Emily
-It's a client based project and I was the core developer of this project. It is a community builder app including post creation, newsfeed, connections, chat, push notifications and Audio/Video calls.
-
-- #### _What I've Learnt_
-  - Audio/Video calls using Voximplant and RNcallkeep.
-  - Chat functionality using socket.io.
-  - Realtime Messaging using Firebase Notifications.
-  - Animations using Animated library from React Native.
   
